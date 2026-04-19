@@ -29,6 +29,6 @@ A simple expense and loan management system written in C during my 1st semester 
 - Learned **modular programming** and **user interaction design**
 - Built a **real-world inspired project** in the first semester
 
----
+
 
 
